@@ -9,7 +9,7 @@ Scheduled project review date/time: 8/1 at 4:00PM
 
 Instructor name: James Irving
 
-Blog post URL: https://medium.com/@avfisher/analyzing-movie-industry-data-what-are-the-traits-of-popular-and-high-grossing-films-d467f6052369
+Blog post URL: https://medium.com/@avfisher/an-exploratory-analysis-of-movie-industry-data-from-imbd-and-rotten-tomatoes-fcbf0bf6924c
 
 # Introduction
 
