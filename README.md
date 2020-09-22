@@ -1,5 +1,5 @@
 
-# Final Project Submission
+# An Exploratory Analysis of Movie Industry Data
 
 Student name: Avonlea Fisher
 
