@@ -1,15 +1,9 @@
 
 # An Exploratory Analysis of Movie Industry Data
 
-Student name: Avonlea Fisher
+<b>Author:</b> Avonlea Fisher
 
-Student pace: full time
-
-Scheduled project review date/time: 8/1 at 4:00PM
-
-Instructor name: James Irving
-
-Blog post URL: https://medium.com/@avfisher/an-exploratory-analysis-of-movie-industry-data-from-imbd-and-rotten-tomatoes-fcbf0bf6924c
+<b>Blog post:</b> https://medium.com/@avfisher/an-exploratory-analysis-of-movie-industry-data-from-imbd-and-rotten-tomatoes-fcbf0bf6924c
 
 # Introduction
 
